@@ -1,1 +1,1 @@
-# Desdemona-Reversi-Othello-Game
+# Desdemona_Reversi(Othello) Game
